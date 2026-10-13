@@ -1,0 +1,5 @@
+Verbatim prompt given to Claude Code (VS Code extension, model Claude Opus 5.5) on 2026-10-12.
+It was used with the AISE agentic-sdlc plugin v0.3.4 /agentic-sdlc:orchestrate skill to draft Parts 1-5, Part 6 adjudication and critique, and Part 7 of this assignment.
+--- prompt begins ---
+Please keep in git ignor then let's go to /agentic-sdlc:orchestrate to complete all the steps in sequence and nesuring adherence and expectations of hthe assignment at hand
+--- prompt ends ---
