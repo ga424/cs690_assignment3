@@ -1,8 +1,8 @@
 # CS 690 Assignment 3: Evidence to Executable Specification
 
 Name: Gustavo Abreu
-Commit SHA: `<fill in after the final commit: git rev-parse HEAD>`
-Repository: `<public repository URL>`
+Commit SHA: 9b6f1dd2c5a9c7e64b55b43bab6b9fadd02ee1b0
+Repository: https://github.com/ga424/cs690_assignment3.git
 
 ## Part 1. Evidence log
 
